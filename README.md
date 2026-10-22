@@ -31,7 +31,7 @@ I build the software small businesses run on, and I own it end to end: requireme
 ## Currently
 
 - Completing an Associate in Arts at St. Petersburg College (expected Spring 2027), with a planned transfer to the University of Florida.
-- Building a C++20 orbit-propagation project.
+- Building an orbit-propagation and Starlink ephemeris analysis project (in progress, Python).
 
 ## Contact
 

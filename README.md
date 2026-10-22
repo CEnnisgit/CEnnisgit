@@ -16,7 +16,7 @@
 
 I build the software small businesses run on, and I own it end to end: requirements, frontend, backend, deployment, hosting and maintenance.
 
-- **Software Developer & Operations Systems Lead, The Love of Color** (2022 to present): built the company's production website and an internal CRM (PHP, JavaScript, SQL) for customers, scheduling and project tracking.
+- **Software Developer & Operations Systems Lead, 4 the love of color** (2022 to present): built the company's production website and an internal CRM (PHP, JavaScript, SQL) for customers, scheduling and project tracking.
 - **Founder / Web Developer, [Nimbus Web Design](https://nimbuswebdesign.com)** (2024 to present): websites, business software and AI-assisted workflows for local clients.
 
 ## Featured projects
